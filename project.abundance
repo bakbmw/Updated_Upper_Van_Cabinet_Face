@@ -328,15 +328,15 @@
         },
         {
           "name": "Tool Size",
-          "ioValue": 0.125
+          "ioValue": 0.25
         },
         {
           "name": "Passes",
-          "ioValue": 1
+          "ioValue": 2
         },
         {
           "name": "Speed",
-          "ioValue": 1000
+          "ioValue": 250
         },
         {
           "name": "Cut Through",

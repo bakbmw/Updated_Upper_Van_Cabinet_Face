@@ -262,8 +262,8 @@
     },
     {
       "atomType": "Difference",
-      "x": 0.6344410876132931,
-      "y": 0.14868804664723032,
+      "x": 0.5961538461538461,
+      "y": 0.29012345679012347,
       "uniqueID": "id-351",
       "ioValues": [
         {
@@ -292,7 +292,7 @@
         },
         {
           "name": "yDist",
-          "ioValue": 4
+          "ioValue": 3.2
         },
         {
           "name": "zDist",
@@ -318,8 +318,8 @@
     },
     {
       "atomType": "Gcode",
-      "x": 0.8579881656804733,
-      "y": 0.4351851851851851,
+      "x": 0.8653846153846154,
+      "y": 0.47530864197530864,
       "uniqueID": "id-365",
       "ioValues": [
         {
@@ -328,7 +328,7 @@
         },
         {
           "name": "Tool Size",
-          "ioValue": 0.25
+          "ioValue": 0.125
         },
         {
           "name": "Passes",
@@ -340,7 +340,7 @@
         },
         {
           "name": "Cut Through",
-          "ioValue": 0
+          "ioValue": 0.04
         },
         {
           "name": "Part Name",
@@ -412,6 +412,11 @@
       "ap2Name": "geometry",
       "ap1ID": "id-361",
       "ap2ID": "id-365"
+    },
+    {
+      "ap2Name": "number or geometry",
+      "ap1ID": "id-365",
+      "ap2ID": "id-264"
     }
   ],
   "unitsKey": "Inches",
